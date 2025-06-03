@@ -1,0 +1,7 @@
+[package]
+org = "isuruu"
+name = "pizza"
+version = "0.1.0"
+
+[build-options]
+remoteManagement = true
