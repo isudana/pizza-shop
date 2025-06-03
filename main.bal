@@ -1,6 +1,5 @@
 import ballerina/http;
 import ballerina/log;
-import ballerinax/wso2.controlplane as _;
 
 // In-memory storage
 final map<Pizza> pizzaDb = {};
